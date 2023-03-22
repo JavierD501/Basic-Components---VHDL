@@ -1,2 +1,2 @@
 # Latches-MUXs-Flip-Flops---VHDL
-VHDL code for latches, multiplexers, and flip flops.
+VHDL code for basic components.
